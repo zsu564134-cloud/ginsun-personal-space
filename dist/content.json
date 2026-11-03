@@ -1,0 +1,1413 @@
+{
+  "site": {
+    "title": "Gin Sun — Personal Space",
+    "description": "Gin Sun / 孙正基：建筑、AIGC、摄影、影像剪辑与数字产品的个人创作空间。",
+    "socialUrl": "https://xhslink.cn/o/8NOBuBDfnHC",
+    "githubUrl": "https://github.com/zsu564134-cloud"
+  },
+  "entrance": {
+    "eyebrow": "INDEPENDENT PERSPECTIVES.",
+    "name": [
+      "GIN",
+      "SUN"
+    ],
+    "theme": [
+      "BETWEEN SPACE",
+      "AND IMAGE."
+    ],
+    "bio": [
+      [
+        "Working across architecture,",
+        "photography, generative imagery",
+        "and digital products."
+      ],
+      [
+        "A collection of projects,",
+        "observations and ongoing work."
+      ]
+    ],
+    "categories": [
+      "ARCHITECTURE",
+      "IMAGES",
+      "OBJECTS"
+    ],
+    "quote": [
+      "What can I hold you with?",
+      "I offer you lean streets,",
+      "desperate sunsets, the moon",
+      "of the ragged suburbs."
+    ],
+    "attribution": "JORGE LUIS BORGES / TWO ENGLISH POEMS"
+  },
+  "sections": {
+    "about": {
+      "heading": [
+        "01 / THE PERSON",
+        "Gin Sun.",
+        "关于我"
+      ],
+      "label": [
+        "About Gin",
+        "个人介绍"
+      ],
+      "name": "GIN SUN",
+      "title": "Space. Image.\nIdeas in motion.",
+      "description": "Architecture, AIGC, photography, filmmaking and digital products.",
+      "descriptionZh": "建筑、生成影像、摄影、影像剪辑与数字产品。以空间理解为起点，让想法成为可以被看见和使用的作品。",
+      "resume": "assets/collection/resume-112.jpg",
+      "image": "assets/collection/resume-112.jpg",
+      "note": "Sun Zhengji / Nanjing University",
+      "noteZh": "南京大学建筑学硕士在读 · AIGC 全流程独立创作"
+    },
+    "architecture": {
+      "heading": [
+        "02 / SPATIAL PRACTICE",
+        "Architecture.",
+        "建筑设计"
+      ],
+      "label": [
+        "Architecture",
+        "建筑作品"
+      ],
+      "screen": "assets/collection/film-35.webp",
+      "items": [
+        {
+          "id": "architecture-1",
+          "title": "叠代共生",
+          "description": "Layered Symbiosis",
+          "descriptionZh": "南岭毕设 · 以更新连接地方生活与公共空间。",
+          "cover": "assets/collection/film-35.webp",
+          "category": "SPATIAL PRACTICE",
+          "tags": [],
+          "blocks": [
+            {
+              "type": "text",
+              "text": "Layered Symbiosis",
+              "zh": "南岭毕设 · 以更新连接地方生活与公共空间。"
+            },
+            {
+              "type": "video",
+              "src": "assets/collection/film-35.mp4",
+              "poster": "assets/collection/film-35.webp",
+              "alt": "叠代共生"
+            },
+            {
+              "type": "image",
+              "src": "assets/collection/architecture-1/01.webp",
+              "alt": "叠代共生 / 01",
+              "caption": "STUDY 01"
+            },
+            {
+              "type": "image",
+              "src": "assets/collection/architecture-1/02.webp",
+              "alt": "叠代共生 / 02",
+              "caption": "STUDY 02"
+            },
+            {
+              "type": "image",
+              "src": "assets/collection/architecture-1/03.webp",
+              "alt": "叠代共生 / 03",
+              "caption": "STUDY 03"
+            },
+            {
+              "type": "image",
+              "src": "assets/collection/architecture-1/04.webp",
+              "alt": "叠代共生 / 04",
+              "caption": "STUDY 04"
+            },
+            {
+              "type": "image",
+              "src": "assets/collection/architecture-1/05.webp",
+              "alt": "叠代共生 / 05",
+              "caption": "STUDY 05"
+            },
+            {
+              "type": "pdf",
+              "src": "assets/collection/architecture-1/reading-edition.pdf",
+              "label": "Reading edition",
+              "labelZh": "完整项目图册"
+            }
+          ]
+        },
+        {
+          "id": "architecture-2",
+          "title": "阈间聚落的山地台地",
+          "description": "Terraced Thresholds",
+          "descriptionZh": "红山停车场 · 在山地台地中组织停车、街道与公共生活。",
+          "cover": "assets/collection/film-36.webp",
+          "category": "SPATIAL PRACTICE",
+          "tags": [],
+          "blocks": [
+            {
+              "type": "text",
+              "text": "Terraced Thresholds",
+              "zh": "红山停车场 · 在山地台地中组织停车、街道与公共生活。"
+            },
+            {
+              "type": "video",
+              "src": "assets/collection/film-36.mp4",
+              "poster": "assets/collection/film-36.webp",
+              "alt": "阈间聚落的山地台地"
+            },
+            {
+              "type": "image",
+              "src": "assets/collection/architecture-2/01.webp",
+              "alt": "阈间聚落的山地台地 / 01",
+              "caption": "STUDY 01"
+            },
+            {
+              "type": "image",
+              "src": "assets/collection/architecture-2/02.webp",
+              "alt": "阈间聚落的山地台地 / 02",
+              "caption": "STUDY 02"
+            },
+            {
+              "type": "image",
+              "src": "assets/collection/architecture-2/03.webp",
+              "alt": "阈间聚落的山地台地 / 03",
+              "caption": "STUDY 03"
+            },
+            {
+              "type": "image",
+              "src": "assets/collection/architecture-2/04.webp",
+              "alt": "阈间聚落的山地台地 / 04",
+              "caption": "STUDY 04"
+            },
+            {
+              "type": "image",
+              "src": "assets/collection/architecture-2/05.webp",
+              "alt": "阈间聚落的山地台地 / 05",
+              "caption": "STUDY 05"
+            },
+            {
+              "type": "image",
+              "src": "assets/collection/architecture-2/06.webp",
+              "alt": "阈间聚落的山地台地 / 06",
+              "caption": "STUDY 06"
+            },
+            {
+              "type": "pdf",
+              "src": "assets/collection/architecture-2/reading-edition.pdf",
+              "label": "Reading edition",
+              "labelZh": "完整项目图册"
+            }
+          ]
+        },
+        {
+          "id": "architecture-3",
+          "title": "缘与失乐园",
+          "description": "Paradise, Lost and Found",
+          "descriptionZh": "墓地设计 · 关于告别、记忆与空间体验。",
+          "cover": "assets/collection/film-37.webp",
+          "category": "SPATIAL PRACTICE",
+          "tags": [],
+          "blocks": [
+            {
+              "type": "text",
+              "text": "Paradise, Lost and Found",
+              "zh": "墓地设计 · 关于告别、记忆与空间体验。"
+            },
+            {
+              "type": "video",
+              "src": "assets/collection/film-37.mp4",
+              "poster": "assets/collection/film-37.webp",
+              "alt": "缘与失乐园"
+            },
+            {
+              "type": "image",
+              "src": "assets/collection/architecture-3/01.webp",
+              "alt": "缘与失乐园 / 01",
+              "caption": "STUDY 01"
+            },
+            {
+              "type": "image",
+              "src": "assets/collection/architecture-3/02.webp",
+              "alt": "缘与失乐园 / 02",
+              "caption": "STUDY 02"
+            },
+            {
+              "type": "image",
+              "src": "assets/collection/architecture-3/03.webp",
+              "alt": "缘与失乐园 / 03",
+              "caption": "STUDY 03"
+            },
+            {
+              "type": "image",
+              "src": "assets/collection/architecture-3/04.webp",
+              "alt": "缘与失乐园 / 04",
+              "caption": "STUDY 04"
+            },
+            {
+              "type": "pdf",
+              "src": "assets/collection/architecture-3/reading-edition.pdf",
+              "label": "Reading edition",
+              "labelZh": "完整项目图册"
+            }
+          ]
+        },
+        {
+          "id": "architecture-4",
+          "title": "内向涟漪",
+          "description": "Inward Ripples",
+          "descriptionZh": "音乐转译建筑 · 从声音的结构走向空间。",
+          "cover": "assets/collection/architecture-4/01.webp",
+          "category": "SPATIAL PRACTICE",
+          "tags": [],
+          "blocks": [
+            {
+              "type": "text",
+              "text": "Inward Ripples",
+              "zh": "音乐转译建筑 · 从声音的结构走向空间。"
+            },
+            {
+              "type": "image",
+              "src": "assets/collection/architecture-4/01.webp",
+              "alt": "内向涟漪 / 01",
+              "caption": "STUDY 01"
+            },
+            {
+              "type": "image",
+              "src": "assets/collection/architecture-4/02.webp",
+              "alt": "内向涟漪 / 02",
+              "caption": "STUDY 02"
+            },
+            {
+              "type": "image",
+              "src": "assets/collection/architecture-4/03.webp",
+              "alt": "内向涟漪 / 03",
+              "caption": "STUDY 03"
+            },
+            {
+              "type": "image",
+              "src": "assets/collection/architecture-4/04.webp",
+              "alt": "内向涟漪 / 04",
+              "caption": "STUDY 04"
+            },
+            {
+              "type": "pdf",
+              "src": "assets/collection/architecture-4/reading-edition.pdf",
+              "label": "Reading edition",
+              "labelZh": "完整项目图册"
+            }
+          ]
+        },
+        {
+          "id": "architecture-5",
+          "title": "垂直沃野",
+          "description": "Vertical Fields",
+          "descriptionZh": "高层办公 · 探索垂直空间与绿色场所的联系。",
+          "cover": "assets/collection/architecture-5/01.webp",
+          "category": "SPATIAL PRACTICE",
+          "tags": [],
+          "blocks": [
+            {
+              "type": "text",
+              "text": "Vertical Fields",
+              "zh": "高层办公 · 探索垂直空间与绿色场所的联系。"
+            },
+            {
+              "type": "image",
+              "src": "assets/collection/architecture-5/01.webp",
+              "alt": "垂直沃野 / 01",
+              "caption": "STUDY 01"
+            },
+            {
+              "type": "image",
+              "src": "assets/collection/architecture-5/02.webp",
+              "alt": "垂直沃野 / 02",
+              "caption": "STUDY 02"
+            },
+            {
+              "type": "image",
+              "src": "assets/collection/architecture-5/03.webp",
+              "alt": "垂直沃野 / 03",
+              "caption": "STUDY 03"
+            },
+            {
+              "type": "image",
+              "src": "assets/collection/architecture-5/04.webp",
+              "alt": "垂直沃野 / 04",
+              "caption": "STUDY 04"
+            },
+            {
+              "type": "pdf",
+              "src": "assets/collection/architecture-5/reading-edition.pdf",
+              "label": "Reading edition",
+              "labelZh": "完整项目图册"
+            }
+          ]
+        }
+      ]
+    },
+    "aigc": {
+      "heading": [
+        "03 / GENERATIVE IMAGERY",
+        "Beyond the frame.",
+        "AIGC 生成影像"
+      ],
+      "label": [
+        "Generative imagery",
+        "AIGC 影像"
+      ],
+      "screen": "assets/collection/film-24.webp",
+      "items": [
+        {
+          "id": "aigc-25",
+          "title": "Seedance 2.5 · Visual Launch",
+          "category": "商业传播",
+          "tags": [
+            "视觉实验"
+          ],
+          "cover": "assets/collection/film-24.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-24.mp4",
+              "poster": "assets/collection/film-24.webp",
+              "alt": "Seedance 2.5 · Visual Launch"
+            }
+          ]
+        },
+        {
+          "id": "aigc-10",
+          "title": "成长与遗憾",
+          "category": "叙事短片",
+          "tags": [
+            "动画叙事"
+          ],
+          "cover": "assets/collection/film-09.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-09.mp4",
+              "poster": "assets/collection/film-09.webp",
+              "alt": "成长与遗憾"
+            }
+          ]
+        },
+        {
+          "id": "aigc-21",
+          "title": "校园叛逆歌手",
+          "category": "商业传播",
+          "tags": [
+            "音乐影像"
+          ],
+          "cover": "assets/collection/film-20.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-20.mp4",
+              "poster": "assets/collection/film-20.webp",
+              "alt": "校园叛逆歌手"
+            }
+          ]
+        },
+        {
+          "id": "aigc-35",
+          "title": "xTool · Product Film",
+          "category": "商业传播",
+          "tags": [
+            "产品演示"
+          ],
+          "cover": "assets/collection/film-34.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-34.mp4",
+              "poster": "assets/collection/film-34.webp",
+              "alt": "xTool · Product Film"
+            }
+          ]
+        },
+        {
+          "id": "aigc-24",
+          "title": "从分镜到影像",
+          "category": "工作流演示",
+          "tags": [
+            "分镜生成"
+          ],
+          "cover": "assets/collection/film-23.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-23.mp4",
+              "poster": "assets/collection/film-23.webp",
+              "alt": "从分镜到影像"
+            }
+          ]
+        },
+        {
+          "id": "aigc-27",
+          "title": "街角变形",
+          "category": "工作流演示",
+          "tags": [
+            "空间变形"
+          ],
+          "cover": "assets/collection/film-26.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-26.mp4",
+              "poster": "assets/collection/film-26.webp",
+              "alt": "街角变形"
+            }
+          ]
+        },
+        {
+          "id": "aigc-16",
+          "title": "无限宇宙",
+          "category": "商业传播",
+          "tags": [
+            "视觉实验"
+          ],
+          "cover": "assets/collection/film-15.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-15.mp4",
+              "poster": "assets/collection/film-15.webp",
+              "alt": "无限宇宙"
+            }
+          ]
+        },
+        {
+          "id": "aigc-11",
+          "title": "地铁 · 海洋巨兽",
+          "category": "商业传播",
+          "tags": [
+            "奇幻场景"
+          ],
+          "cover": "assets/collection/film-10.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-10.mp4",
+              "poster": "assets/collection/film-10.webp",
+              "alt": "地铁 · 海洋巨兽"
+            }
+          ]
+        },
+        {
+          "id": "aigc-01",
+          "title": "30 Days Before the Apocalypse",
+          "category": "叙事短片",
+          "tags": [
+            "剧情叙事"
+          ],
+          "cover": "assets/collection/film-00.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-00.mp4",
+              "poster": "assets/collection/film-00.webp",
+              "alt": "30 Days Before the Apocalypse"
+            }
+          ]
+        },
+        {
+          "id": "aigc-02",
+          "title": "Shadows of Betrayal",
+          "category": "叙事短片",
+          "tags": [
+            "剧情叙事"
+          ],
+          "cover": "assets/collection/film-01.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-01.mp4",
+              "poster": "assets/collection/film-01.webp",
+              "alt": "Shadows of Betrayal"
+            }
+          ]
+        },
+        {
+          "id": "aigc-03",
+          "title": "Highway Survival",
+          "category": "叙事短片",
+          "tags": [
+            "剧情叙事"
+          ],
+          "cover": "assets/collection/film-02.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-02.mp4",
+              "poster": "assets/collection/film-02.webp",
+              "alt": "Highway Survival"
+            }
+          ]
+        },
+        {
+          "id": "aigc-04",
+          "title": "Revenge: Once His Wife — I",
+          "category": "叙事短片",
+          "tags": [
+            "剧情叙事"
+          ],
+          "cover": "assets/collection/film-03.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-03.mp4",
+              "poster": "assets/collection/film-03.webp",
+              "alt": "Revenge: Once His Wife — I"
+            }
+          ]
+        },
+        {
+          "id": "aigc-05",
+          "title": "The Ex-Wife’s Billion Dollar Comeback",
+          "category": "叙事短片",
+          "tags": [
+            "剧情叙事"
+          ],
+          "cover": "assets/collection/film-04.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-04.mp4",
+              "poster": "assets/collection/film-04.webp",
+              "alt": "The Ex-Wife’s Billion Dollar Comeback"
+            }
+          ]
+        },
+        {
+          "id": "aigc-06",
+          "title": "Island Survival",
+          "category": "叙事短片",
+          "tags": [
+            "剧情叙事"
+          ],
+          "cover": "assets/collection/film-05.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-05.mp4",
+              "poster": "assets/collection/film-05.webp",
+              "alt": "Island Survival"
+            }
+          ]
+        },
+        {
+          "id": "aigc-07",
+          "title": "Revenge: Once His Wife — II",
+          "category": "叙事短片",
+          "tags": [
+            "剧情叙事"
+          ],
+          "cover": "assets/collection/film-06.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-06.mp4",
+              "poster": "assets/collection/film-06.webp",
+              "alt": "Revenge: Once His Wife — II"
+            }
+          ]
+        },
+        {
+          "id": "aigc-08",
+          "title": "Seducing the Godfather",
+          "category": "叙事短片",
+          "tags": [
+            "剧情叙事"
+          ],
+          "cover": "assets/collection/film-07.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-07.mp4",
+              "poster": "assets/collection/film-07.webp",
+              "alt": "Seducing the Godfather"
+            }
+          ]
+        },
+        {
+          "id": "aigc-09",
+          "title": "Playing Dirty on Ice",
+          "category": "叙事短片",
+          "tags": [
+            "剧情叙事"
+          ],
+          "cover": "assets/collection/film-08.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-08.mp4",
+              "poster": "assets/collection/film-08.webp",
+              "alt": "Playing Dirty on Ice"
+            }
+          ]
+        },
+        {
+          "id": "aigc-12",
+          "title": "一键进入海贼世界",
+          "category": "商业传播",
+          "tags": [
+            "角色转译"
+          ],
+          "cover": "assets/collection/film-11.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-11.mp4",
+              "poster": "assets/collection/film-11.webp",
+              "alt": "一键进入海贼世界"
+            }
+          ]
+        },
+        {
+          "id": "aigc-13",
+          "title": "鬼灭世界",
+          "category": "商业传播",
+          "tags": [
+            "角色转译"
+          ],
+          "cover": "assets/collection/film-12.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-12.mp4",
+              "poster": "assets/collection/film-12.webp",
+              "alt": "鬼灭世界"
+            }
+          ]
+        },
+        {
+          "id": "aigc-14",
+          "title": "富士山喷发",
+          "category": "商业传播",
+          "tags": [
+            "奇幻场景"
+          ],
+          "cover": "assets/collection/film-13.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-13.mp4",
+              "poster": "assets/collection/film-13.webp",
+              "alt": "富士山喷发"
+            }
+          ]
+        },
+        {
+          "id": "aigc-15",
+          "title": "仪式与魔",
+          "category": "商业传播",
+          "tags": [
+            "奇幻场景"
+          ],
+          "cover": "assets/collection/film-14.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-14.mp4",
+              "poster": "assets/collection/film-14.webp",
+              "alt": "仪式与魔"
+            }
+          ]
+        },
+        {
+          "id": "aigc-17",
+          "title": "梦境无限道路",
+          "category": "商业传播",
+          "tags": [
+            "视觉实验"
+          ],
+          "cover": "assets/collection/film-16.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-16.mp4",
+              "poster": "assets/collection/film-16.webp",
+              "alt": "梦境无限道路"
+            }
+          ]
+        },
+        {
+          "id": "aigc-18",
+          "title": "魔法对冲",
+          "category": "商业传播",
+          "tags": [
+            "奇幻场景"
+          ],
+          "cover": "assets/collection/film-17.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-17.mp4",
+              "poster": "assets/collection/film-17.webp",
+              "alt": "魔法对冲"
+            }
+          ]
+        },
+        {
+          "id": "aigc-19",
+          "title": "骑龙战克苏鲁",
+          "category": "商业传播",
+          "tags": [
+            "奇幻场景"
+          ],
+          "cover": "assets/collection/film-18.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-18.mp4",
+              "poster": "assets/collection/film-18.webp",
+              "alt": "骑龙战克苏鲁"
+            }
+          ]
+        },
+        {
+          "id": "aigc-20",
+          "title": "空中变装",
+          "category": "商业传播",
+          "tags": [
+            "人物造型"
+          ],
+          "cover": "assets/collection/film-19.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-19.mp4",
+              "poster": "assets/collection/film-19.webp",
+              "alt": "空中变装"
+            }
+          ]
+        },
+        {
+          "id": "aigc-22",
+          "title": "草原模特",
+          "category": "商业传播",
+          "tags": [
+            "人物造型"
+          ],
+          "cover": "assets/collection/film-21.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-21.mp4",
+              "poster": "assets/collection/film-21.webp",
+              "alt": "草原模特"
+            }
+          ]
+        },
+        {
+          "id": "aigc-23",
+          "title": "Seedance 2.5 · Cinematic Worlds",
+          "category": "商业传播",
+          "tags": [
+            "模型能力"
+          ],
+          "cover": "assets/collection/film-22.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-22.mp4",
+              "poster": "assets/collection/film-22.webp",
+              "alt": "Seedance 2.5 · Cinematic Worlds"
+            }
+          ]
+        },
+        {
+          "id": "aigc-26",
+          "title": "预告片制作",
+          "category": "工作流演示",
+          "tags": [
+            "预告片"
+          ],
+          "cover": "assets/collection/film-25.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-25.mp4",
+              "poster": "assets/collection/film-25.webp",
+              "alt": "预告片制作"
+            }
+          ]
+        },
+        {
+          "id": "aigc-28",
+          "title": "梦核影像",
+          "category": "商业传播",
+          "tags": [
+            "视觉实验"
+          ],
+          "cover": "assets/collection/film-27.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-27.mp4",
+              "poster": "assets/collection/film-27.webp",
+              "alt": "梦核影像"
+            }
+          ]
+        },
+        {
+          "id": "aigc-29",
+          "title": "无人机穿越",
+          "category": "工作流演示",
+          "tags": [
+            "空间镜头"
+          ],
+          "cover": "assets/collection/film-28.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-28.mp4",
+              "poster": "assets/collection/film-28.webp",
+              "alt": "无人机穿越"
+            }
+          ]
+        },
+        {
+          "id": "aigc-30",
+          "title": "HappySeeds · Volcano",
+          "category": "商业传播",
+          "tags": [
+            "品牌广告"
+          ],
+          "cover": "assets/collection/film-29.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-29.mp4",
+              "poster": "assets/collection/film-29.webp",
+              "alt": "HappySeeds · Volcano"
+            }
+          ]
+        },
+        {
+          "id": "aigc-31",
+          "title": "Pet Live · 骑龙小狗",
+          "category": "商业传播",
+          "tags": [
+            "宠物创意"
+          ],
+          "cover": "assets/collection/film-30.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-30.mp4",
+              "poster": "assets/collection/film-30.webp",
+              "alt": "Pet Live · 骑龙小狗"
+            }
+          ]
+        },
+        {
+          "id": "aigc-32",
+          "title": "Pet Live · 宠物影像",
+          "category": "商业传播",
+          "tags": [
+            "宠物创意"
+          ],
+          "cover": "assets/collection/film-31.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-31.mp4",
+              "poster": "assets/collection/film-31.webp",
+              "alt": "Pet Live · 宠物影像"
+            }
+          ]
+        },
+        {
+          "id": "aigc-33",
+          "title": "MiniMax · 促销传播",
+          "category": "商业传播",
+          "tags": [
+            "促销广告"
+          ],
+          "cover": "assets/collection/film-32.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-32.mp4",
+              "poster": "assets/collection/film-32.webp",
+              "alt": "MiniMax · 促销传播"
+            }
+          ]
+        },
+        {
+          "id": "aigc-34",
+          "title": "品牌视频生成",
+          "category": "商业传播",
+          "tags": [
+            "品牌广告"
+          ],
+          "cover": "assets/collection/film-33.webp",
+          "description": "Independent end-to-end production",
+          "descriptionZh": "独立完成 Brief 拆解、脚本策划、画面制作、剪辑与最终交付。",
+          "blocks": [
+            {
+              "type": "video",
+              "src": "assets/collection/film-33.mp4",
+              "poster": "assets/collection/film-33.webp",
+              "alt": "品牌视频生成"
+            }
+          ]
+        }
+      ]
+    },
+    "photography": {
+      "heading": [
+        "04 / THE LIBRARY",
+        "Ways of seeing.",
+        "摄影与影像 · 六册作品集"
+      ],
+      "label": [
+        "Photography",
+        "翻阅作品集"
+      ],
+      "albums": [
+        {
+          "id": "book-01",
+          "title": "The Days Go By",
+          "description": "Small movements, shared hours.",
+          "cover": "assets/collection/book-01/01.webp",
+          "pages": [
+            "assets/collection/book-01/01.webp",
+            "assets/collection/book-01/02.webp",
+            "assets/collection/book-01/03.webp",
+            "assets/collection/book-01/04.webp",
+            "assets/collection/book-01/05.webp",
+            "assets/collection/book-01/06.webp",
+            "assets/collection/book-01/07.webp",
+            "assets/collection/book-01/08.webp",
+            "assets/collection/book-01/09.webp",
+            "assets/collection/book-01/10.webp",
+            "assets/collection/book-01/11.webp",
+            "assets/collection/book-01/12.webp",
+            "assets/collection/book-01/13.webp",
+            "assets/collection/book-01/14.webp",
+            "assets/collection/book-01/15.webp",
+            "assets/collection/book-01/16.webp",
+            "assets/collection/book-01/17.webp",
+            "assets/collection/book-01/18.webp",
+            "assets/collection/book-01/19.webp",
+            "assets/collection/book-01/20.webp",
+            "assets/collection/book-01/21.webp"
+          ],
+          "pdf": "assets/collection/book-01/reading-edition.pdf"
+        },
+        {
+          "id": "book-02",
+          "title": "Rooms Without Walls",
+          "description": "The places a body can occupy.",
+          "cover": "assets/collection/book-02/01.webp",
+          "pages": [
+            "assets/collection/book-02/01.webp",
+            "assets/collection/book-02/02.webp",
+            "assets/collection/book-02/03.webp",
+            "assets/collection/book-02/04.webp",
+            "assets/collection/book-02/05.webp",
+            "assets/collection/book-02/06.webp",
+            "assets/collection/book-02/07.webp",
+            "assets/collection/book-02/08.webp",
+            "assets/collection/book-02/09.webp",
+            "assets/collection/book-02/10.webp",
+            "assets/collection/book-02/11.webp",
+            "assets/collection/book-02/12.webp",
+            "assets/collection/book-02/13.webp",
+            "assets/collection/book-02/14.webp",
+            "assets/collection/book-02/15.webp",
+            "assets/collection/book-02/16.webp",
+            "assets/collection/book-02/17.webp",
+            "assets/collection/book-02/18.webp",
+            "assets/collection/book-02/19.webp",
+            "assets/collection/book-02/20.webp",
+            "assets/collection/book-02/21.webp"
+          ],
+          "pdf": "assets/collection/book-02/reading-edition.pdf"
+        },
+        {
+          "id": "book-03",
+          "title": "Between Water and Mist",
+          "description": "Notes on distance and fading light.",
+          "cover": "assets/collection/book-03/01.webp",
+          "pages": [
+            "assets/collection/book-03/01.webp",
+            "assets/collection/book-03/02.webp",
+            "assets/collection/book-03/03.webp",
+            "assets/collection/book-03/04.webp",
+            "assets/collection/book-03/05.webp",
+            "assets/collection/book-03/06.webp",
+            "assets/collection/book-03/07.webp",
+            "assets/collection/book-03/08.webp",
+            "assets/collection/book-03/09.webp",
+            "assets/collection/book-03/10.webp",
+            "assets/collection/book-03/11.webp",
+            "assets/collection/book-03/12.webp",
+            "assets/collection/book-03/13.webp",
+            "assets/collection/book-03/14.webp",
+            "assets/collection/book-03/15.webp",
+            "assets/collection/book-03/16.webp",
+            "assets/collection/book-03/17.webp",
+            "assets/collection/book-03/18.webp",
+            "assets/collection/book-03/19.webp",
+            "assets/collection/book-03/20.webp",
+            "assets/collection/book-03/21.webp"
+          ],
+          "pdf": "assets/collection/book-03/reading-edition.pdf"
+        },
+        {
+          "id": "book-04",
+          "title": "Things Along the Way",
+          "description": "Look again. Then move on.",
+          "cover": "assets/collection/book-04/01.webp",
+          "pages": [
+            "assets/collection/book-04/01.webp",
+            "assets/collection/book-04/02.webp",
+            "assets/collection/book-04/03.webp",
+            "assets/collection/book-04/04.webp",
+            "assets/collection/book-04/05.webp",
+            "assets/collection/book-04/06.webp",
+            "assets/collection/book-04/07.webp",
+            "assets/collection/book-04/08.webp",
+            "assets/collection/book-04/09.webp",
+            "assets/collection/book-04/10.webp",
+            "assets/collection/book-04/11.webp",
+            "assets/collection/book-04/12.webp",
+            "assets/collection/book-04/13.webp",
+            "assets/collection/book-04/14.webp",
+            "assets/collection/book-04/15.webp",
+            "assets/collection/book-04/16.webp",
+            "assets/collection/book-04/17.webp",
+            "assets/collection/book-04/18.webp",
+            "assets/collection/book-04/19.webp"
+          ],
+          "pdf": "assets/collection/book-04/reading-edition.pdf"
+        },
+        {
+          "id": "book-05",
+          "title": "Where the Path Ends",
+          "description": "A sequence in black and white.",
+          "cover": "assets/collection/book-05/01.webp",
+          "pages": [
+            "assets/collection/book-05/01.webp",
+            "assets/collection/book-05/02.webp",
+            "assets/collection/book-05/03.webp",
+            "assets/collection/book-05/04.webp",
+            "assets/collection/book-05/05.webp",
+            "assets/collection/book-05/06.webp",
+            "assets/collection/book-05/07.webp",
+            "assets/collection/book-05/08.webp",
+            "assets/collection/book-05/09.webp",
+            "assets/collection/book-05/10.webp",
+            "assets/collection/book-05/11.webp",
+            "assets/collection/book-05/12.webp",
+            "assets/collection/book-05/13.webp",
+            "assets/collection/book-05/14.webp",
+            "assets/collection/book-05/15.webp"
+          ],
+          "pdf": "assets/collection/book-05/reading-edition.pdf"
+        },
+        {
+          "id": "book-06",
+          "title": "Video Portfolio",
+          "description": "Documentary / moving image / editing",
+          "descriptionZh": "建筑纪录、自然纪录与实验影像。",
+          "cover": "assets/collection/book-06/01.webp",
+          "pages": [
+            "assets/collection/book-06/01.webp",
+            "assets/collection/book-06/02.webp",
+            "assets/collection/book-06/03.webp",
+            "assets/collection/book-06/04.webp",
+            "assets/collection/book-06/05.webp",
+            "assets/collection/book-06/06.webp"
+          ],
+          "pdf": "assets/collection/book-06/reading-edition.pdf",
+          "links": [
+            {
+              "page": 2,
+              "title": "怒江大峡谷先锋书店 · Bilibili",
+              "src": "https://www.bilibili.com/video/BV1pVxweAEQu/"
+            },
+            {
+              "page": 3,
+              "title": "高黎贡山的梦幻甲虫 · Bilibili",
+              "src": "https://www.bilibili.com/video/BV1SdFfezEqF/"
+            },
+            {
+              "page": 4,
+              "title": "金陵怀古图 · 网盘（提取码 fwrj）",
+              "src": "https://pan.baidu.com/s/1IR_qksDO4FXlAO3QztTVEA?pwd=fwrj"
+            },
+            {
+              "page": 5,
+              "title": "AI 项目 Demo · 网盘（提取码 n5zh）",
+              "src": "https://pan.baidu.com/s/1DjwgaMX3BiQ98uLfrFY71g?pwd=n5zh"
+            }
+          ]
+        }
+      ]
+    },
+    "products": {
+      "heading": [
+        "05 / DIGITAL EXPERIENCES",
+        "Made to be used.",
+        "产品项目"
+      ],
+      "label": [
+        "Product projects",
+        "产品项目"
+      ],
+      "items": [
+        {
+          "id": "paite",
+          "category": "WECHAT MINI PROGRAM",
+          "title": "Paite Innovation.",
+          "titleZh": "派特创新",
+          "description": "A product project I contributed to.",
+          "descriptionZh": "我参与的产品项目。",
+          "detailTitle": "Experience it\nin WeChat.",
+          "blocks": [
+            {
+              "type": "text",
+              "text": "Copy the mini program code below and paste it into WeChat, or search for “派特创新”.",
+              "zh": "复制下方口令，在微信中粘贴尝试打开；也可搜索“派特创新”。"
+            }
+          ],
+          "copyCode": "#小程序://派特创新/J98uXhn7YquPG8h"
+        }
+      ]
+    },
+    "music": {
+      "heading": [
+        "06 / LISTENING ROOM",
+        "Set the mood.",
+        "选择一段声音"
+      ],
+      "label": [
+        "Listening room",
+        "选择唱片"
+      ],
+      "note": "A personal listening collection. Hong Kong first, then shuffle.",
+      "noteZh": "从 Hong Kong 开始，随后随机播放。按歌手选择，也可以随时暂停。",
+      "tracks": [
+        {
+          "id": "track-01",
+          "title": "Solitude",
+          "artist": "Ryuichi Sakamoto",
+          "src": "assets/collection/track-01.m4a",
+          "cover": "assets/collection/track-01.webp",
+          "loop": false
+        },
+        {
+          "id": "track-02",
+          "title": "Opus",
+          "artist": "Ryuichi Sakamoto",
+          "src": "assets/collection/track-02.m4a",
+          "cover": "assets/collection/track-02.webp",
+          "loop": false
+        },
+        {
+          "id": "track-03",
+          "title": "Rain",
+          "artist": "Ryuichi Sakamoto",
+          "src": "assets/collection/track-03.m4a",
+          "cover": "assets/collection/track-03.webp",
+          "loop": false
+        },
+        {
+          "id": "track-04",
+          "title": "七里香",
+          "artist": "周杰伦",
+          "src": "assets/collection/track-04.m4a",
+          "cover": "assets/collection/track-04.webp",
+          "loop": false
+        },
+        {
+          "id": "track-05",
+          "title": "半岛铁盒",
+          "artist": "周杰伦",
+          "src": "assets/collection/track-05.m4a",
+          "cover": "assets/collection/track-05.webp",
+          "loop": false
+        },
+        {
+          "id": "track-06",
+          "title": "红尘客栈",
+          "artist": "周杰伦",
+          "src": "assets/collection/track-06.m4a",
+          "cover": "assets/collection/track-06.webp",
+          "loop": false
+        },
+        {
+          "id": "track-07",
+          "title": "用背脊唱情歌",
+          "artist": "Gareth.T",
+          "src": "assets/collection/track-07.m4a",
+          "cover": "assets/collection/track-07.webp",
+          "loop": false
+        },
+        {
+          "id": "track-08",
+          "title": "紧急联络人",
+          "artist": "Gareth.T",
+          "src": "assets/collection/track-08.m4a",
+          "cover": "assets/collection/track-08.webp",
+          "loop": false
+        },
+        {
+          "id": "track-09",
+          "title": "颜色",
+          "artist": "Gareth.T",
+          "src": "assets/collection/track-09.m4a",
+          "cover": "assets/collection/track-09.webp",
+          "loop": false
+        },
+        {
+          "id": "track-10",
+          "title": "100种生活",
+          "artist": "卢广仲",
+          "src": "assets/collection/track-10.m4a",
+          "cover": "assets/collection/track-10.webp",
+          "loop": false
+        },
+        {
+          "id": "track-11",
+          "title": "几分之几",
+          "artist": "卢广仲",
+          "src": "assets/collection/track-11.m4a",
+          "cover": "assets/collection/track-11.webp",
+          "loop": false
+        },
+        {
+          "id": "track-12",
+          "title": "大人中",
+          "artist": "卢广仲",
+          "src": "assets/collection/track-12.m4a",
+          "cover": "assets/collection/track-12.webp",
+          "loop": false
+        },
+        {
+          "id": "track-13",
+          "title": "Sins of the Father",
+          "artist": "Daniel Caesar",
+          "src": "assets/collection/track-13.m4a",
+          "cover": "assets/collection/track-13.webp",
+          "loop": false
+        },
+        {
+          "id": "track-14",
+          "title": "Rain Down",
+          "artist": "Daniel Caesar",
+          "src": "assets/collection/track-14.m4a",
+          "cover": "assets/collection/track-14.webp",
+          "loop": false
+        },
+        {
+          "id": "track-15",
+          "title": "Who Knows",
+          "artist": "Daniel Caesar",
+          "src": "assets/collection/track-15.m4a",
+          "cover": "assets/collection/track-15.webp",
+          "loop": false
+        },
+        {
+          "id": "track-16",
+          "title": "Hong Kong",
+          "artist": "The Weeknd × 王菲",
+          "src": "assets/collection/track-16.m4a",
+          "cover": "assets/collection/track-16.webp",
+          "loop": false
+        },
+        {
+          "id": "track-17",
+          "title": "死ぬのがいいわ",
+          "artist": "Fujii Kaze",
+          "src": "assets/collection/track-17.m4a",
+          "cover": "assets/collection/track-17.webp",
+          "loop": false
+        },
+        {
+          "id": "track-18",
+          "title": "きらり",
+          "artist": "Fujii Kaze",
+          "src": "assets/collection/track-18.m4a",
+          "cover": "assets/collection/track-18.webp",
+          "loop": false
+        },
+        {
+          "id": "track-19",
+          "title": "花",
+          "artist": "Fujii Kaze",
+          "src": "assets/collection/track-19.m4a",
+          "cover": "assets/collection/track-19.webp",
+          "loop": false
+        }
+      ],
+      "defaultTrack": "track-16"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+/* User-supplied Latin display face; native PingFang for Chinese where installed. */
+@font-face{font-family:'Gin Display';src:url('assets/fonts/GinDisplay-CondensedBold.woff2?v=20261029') format('woff2');font-style:normal;font-weight:100 900;font-display:swap;unicode-range:U+0000-024F,U+1E00-1EFF,U+2000-206F}
+:root{--font-zh:'PingFang SC','PingFang TC','Microsoft YaHei',sans-serif;--font-en:'Gin Display',var(--font-zh);font-family:var(--font-en);font-synthesis:none}
+body,button,input,select,textarea,code,#threshold,body:not(.entered) header,body:not(.entered) .identity,#intro .eyebrow,#intro h1,.entry-note span,.device-photography .detail-heading h2,.book-leaf h3{font-family:var(--font-en)}
+[lang='zh-CN']{font-family:var(--font-zh)!important;letter-spacing:.04em}
+#intro h1{font-size:min(29vw,34vh);font-weight:700;letter-spacing:.005em;line-height:.86}
+#intro h1 .name-line:last-child{font-weight:700;letter-spacing:.005em;margin-left:20vw;margin-top:1vh}
+body:not(.entered) .identity{letter-spacing:.015em;font-size:23px}
+.entry-navigation button{font-size:15px;letter-spacing:.025em}
+#intro .eyebrow{font-size:12px;letter-spacing:.12em}
+#intro .intro-sub{font-size:13px;letter-spacing:.09em}
+.entry-index,.entry-index span{font-size:11px;letter-spacing:.09em}
+.entry-note{font-size:16px;letter-spacing:.01em}
+#enter{font-size:21px;letter-spacing:.015em}
+#intro .scroll-cue{font-size:11px;letter-spacing:.05em}
+@media(max-width:700px){
+ #intro h1{font-size:min(49vw,26vh);line-height:.88}
+ #intro h1 .name-line:last-child{margin-left:12vw;margin-top:2vh}
+ body:not(.entered) .identity{font-size:22px}.entry-navigation button{font-size:14px}
+ #intro .eyebrow{font-size:10px;letter-spacing:.09em}#intro .intro-sub{font-size:11px}
+ .entry-index,.entry-index span{font-size:10px}.entry-note{font-size:14px}
+ #enter{font-size:19px}#intro .scroll-cue{font-size:10px}
+}
+@media(max-height:700px) and (max-width:700px){
+ #intro h1{font-size:min(48vw,24vh)}#intro .eyebrow{font-size:9px}.entry-note{font-size:12px}
+}
+@media(max-height:520px) and (min-width:701px){#intro h1{font-size:31vh}#intro .eyebrow{font-size:10px}#intro .intro-sub{font-size:10px}.entry-note{font-size:13px}#enter{font-size:17px}}
+@media(max-width:700px) and (min-height:701px){.entry-note{bottom:21.5%}}
